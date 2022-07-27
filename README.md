@@ -1,6 +1,6 @@
 # TerraForm Migration of DF ES Bot
 
-@author: Zachary Rosen | Computational Linguist & Sr. Data Scientist
+@author: Zachary Rosen // Computational Linguist & Sr. Data Scientist
 
 @date: 07/27/2022
 
