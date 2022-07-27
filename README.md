@@ -1,4 +1,4 @@
-# TerraForm Migration of DF ES Bot
+# TerraForm Migration of DF ES Bot to DF CX Bot
 
 @author: Zachary Rosen || Computational Linguist & Sr. Data Scientist
 
