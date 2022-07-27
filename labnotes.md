@@ -31,4 +31,6 @@ https://wizardcommerce.atlassian.net/browse/CBOT-62
 
 #### 07/27/2022
 - Finished `entity_type_definitions.py` generator.
-- 
+- Finished script to generate complete bot.tf file
+- github repo started (https://github.com/zrosen-wizard/DF-ES-to-CX-TerraForm/)
+  - project pushed to github
