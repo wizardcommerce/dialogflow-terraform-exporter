@@ -12,7 +12,7 @@
 
 `--entities` : either the path to a folder containing entity .json files, or a single entity.
 
-`--destination` : the final location that you would like the .tf file to be saved to.
+`--destination` : the final folder/location that you would like the .tf file to be saved to.
 
 
 
